@@ -1,0 +1,17 @@
+titles
+Additional Information.pdf
+Cover Sheet.pdf
+__pycache__/*
+ACCOUNT/*
+CLICKSTREAM/Clickstream.csv
+CONTENT_INTERACTION/*
+CUSTOMER_SERVICE/*
+IP_ADDRESSES/*
+DEVICES/*
+GAMES/*
+MESSAGES/*
+PAYMENT_AND_BILLING/*
+PROFILES/*
+PROFILES/*
+PROFILES/*
+SURVEYS/*
